@@ -11,7 +11,7 @@
 
 *Never miss a prayer time with accurate calculations, beautiful notifications, and Qibla direction.*
 
-[📱 Download](#installation) • [✨ Features](#features) • [🚀 Quick Start](#quick-start) • [📖 Documentation](#documentation)
+[📱 Download](#installation) • [✨ Features](#features) • [🚀 Quick Start](#quick-start)
 
 ---
 
