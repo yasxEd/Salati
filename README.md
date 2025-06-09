@@ -41,8 +41,6 @@
 
 https://github.com/user-attachments/assets/41d44a35-9eb7-4c59-862d-536eaff463b9
 
-utiful interface and smooth animations*
-
 </details>
 
 </div>
@@ -123,22 +121,6 @@ npx expo run:android
 
 ---
 
-## 📖 Documentation
-
-<details>
-<summary>📚 Comprehensive Guide</summary>
-
-- **[Getting Started](./docs/getting-started.md)**
-- **[Configuration](./docs/configuration.md)**
-- **[API Reference](./docs/api-reference.md)**
-- **[Components](./docs/components.md)**
-- **[Hooks](./docs/hooks.md)**
-- **[Context API](./docs/context-api.md)**
-
-</details>
-
----
-
 ## 🛠️ Development
 
 ### Local Development
@@ -154,16 +136,6 @@ npm run ios
 npm run android
 ```
 
-### Testing
-
-```bash
-# Run unit tests
-npm test
-
-# Run end-to-end tests
-npm run e2e
-```
-
 ---
 
 ## 🔧 Troubleshooting
@@ -176,12 +148,6 @@ npm run e2e
 - **Build failures?** Clean the build folder and try rebuilding.
 
 </details>
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
