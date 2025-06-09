@@ -57,13 +57,62 @@ https://github.com/user-attachments/assets/41d44a35-9eb7-4c59-862d-536eaff463b9
 
 </div>
 
-| 🕐 **Prayer Times** | 🧭 **Qibla Finder** | 🔔 **Smart Notifications** |
-|---------------------|---------------------|----------------------------|
-| • Accurate calculations based on location<br>• Multiple calculation methods<br>• Real-time updates | • Compass-based direction<br>• Visual Qibla indicator<br>• Distance to Mecca | • Customizable reminders<br>• Adhan notifications<br>• Background scheduling |
+<p align="center">
+  <table>
+    <tr>
+      <th>🕐 <strong>Prayer Times</strong></th>
+      <th>🧭 <strong>Qibla Finder</strong></th>
+      <th>🔔 <strong>Smart Notifications</strong></th>
+    </tr>
+    <tr>
+      <td>
+        • Accurate calculations based on location<br>
+        • Multiple calculation methods<br>
+        • Real-time updates
+      </td>
+      <td>
+        • Compass-based direction<br>
+        • Visual Qibla indicator<br>
+        • Distance to Mecca
+      </td>
+      <td>
+        • Customizable reminders<br>
+        • Adhan notifications<br>
+        • Background scheduling
+      </td>
+    </tr>
+  </table>
+</p>
 
-| 🌙 **Themes** | 🌍 **Location** | 📱 **Design** |
-|---------------|-----------------|---------------|
-| • Beautiful dark/light themes<br>• Automatic switching<br>• Custom color schemes | • GPS-based accuracy<br>• Manual location setup<br>• Timezone awareness | • Modern UI/UX<br>• Smooth animations<br>• Responsive design |
+<br>
+
+<p align="center">
+  <table>
+    <tr>
+      <th>🌙 <strong>Themes</strong></th>
+      <th>🌍 <strong>Location</strong></th>
+      <th>📱 <strong>Design</strong></th>
+    </tr>
+    <tr>
+      <td>
+        • Beautiful dark/light themes<br>
+        • Automatic switching<br>
+        • Custom color schemes
+      </td>
+      <td>
+        • GPS-based accuracy<br>
+        • Manual location setup<br>
+        • Timezone awareness
+      </td>
+      <td>
+        • Modern UI/UX<br>
+        • Smooth animations<br>
+        • Responsive design
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
