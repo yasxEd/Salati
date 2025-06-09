@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕌 Salati | صلاتي
+#  ![Logo](./assets/README/SalatiLogo.png)  🕌 Salati | صلاتي
 
 ### *Your Ultimate Islamic Prayer Companion*
 
