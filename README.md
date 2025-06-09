@@ -38,14 +38,12 @@
 
 ### 🎥 Demo Video
 
-<details>
-<summary>📹 Watch App Demo</summary>
+### 📹 Watch App Demo
 
 *Experience the beautiful interface and smooth animations*
 
 https://github.com/user-attachments/assets/41d44a35-9eb7-4c59-862d-536eaff463b9
 
-</details>
 
 </div>
 
