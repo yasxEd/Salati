@@ -37,7 +37,7 @@
 <details>
 <summary>📹 Watch App Demo</summary>
 
-https://github.com/user-attachments/assets/demovideo.mp4
+[▶️ Click here to watch the demo video](https://github.com/user-attachments/assets/demovideo.mp4)
 
 *Experience the beautiful interface and smooth animations*
 
