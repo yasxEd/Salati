@@ -1,6 +1,10 @@
 <div align="center">
 
-#  ![Logo](./assets/README/SalatiLogo.png)  🕌 Salati | صلاتي
+# 🕌 Salati | صلاتي
+
+<p align="center">
+  <img src="./assets/README/SalatiLogo.png" alt="Logo" width="120"/>
+</p>
 
 ### *Your Ultimate Islamic Prayer Companion*
 
